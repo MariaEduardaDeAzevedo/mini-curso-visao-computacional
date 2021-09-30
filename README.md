@@ -7,8 +7,8 @@ O mini-projeto consiste em pré-processar uma imagem e, partindo disso, ser poss
 ## Versões deste mini-curso 
 Felizmente esse mini-curso já foi lecionado algumas vezes e sempre tento atualizar um pouco o código, a explicação e a didática! Aqui você pode encontrar as seguintes versões:
 
-[IV Semana de Engenharia Elétrica - Elas@Computação [2020]](./semana-eng-eletrica)
-[Hacktoberfest 2021 - OpenDev UFCG [2021]](./hacktoberfest-opendev-2021)
+- [IV Semana de Engenharia Elétrica - Elas@Computação [2020]](./semana-eng-eletrica)
+- [Hacktoberfest 2021 - OpenDev UFCG [2021]](./hacktoberfest-opendev-2021)
 
 ## O que é Visão Computacional?
 De forma geral, a visão computacional compreende toda uma área da Computação voltada para o reconhecimento, reconstrução e compreensão de espaços por meio de imagens. Podemos descrever essa área de uma forma mais amigável como sendo a parte responsável por fazer as "máquinas enxergarem". 
